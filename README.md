@@ -7,7 +7,7 @@
               - Matplotlib
               - Numpy
                
-##How it's done...
+## How it's done...
 
 - import all the useful packages
 - convert the image to grayscale
@@ -19,5 +19,5 @@
 
 ## TO-DOs
 
-- [] make a better algorithm
-- [] work in different light conditions 
+- [ ] make a better algorithm
+- [ ] work in different light conditions 
